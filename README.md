@@ -1,5 +1,5 @@
 ## Hi! I am Rafael. 👋
-Novo programador no GitHub, um estudante curioso na área de TI e um "Coffe Lover" nato!
+Posso dizer um "Coffe Lover" nato que transforma café em código!
 
 - 🌱 Atualmente estou aprendendo **Python** e **HTML**.
 
