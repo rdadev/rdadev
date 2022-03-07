@@ -1,5 +1,6 @@
 ## Hi! I am Rafael. 👋
-Posso dizer um "Coffe Lover" nato que transforma café em código!
+Sou um estudante na área de programação, procuro sempre colaborar e aprender mais. 
+Um "coffe lover", transformando café em código!
 
 - 🌱 Atualmente estou aprendendo **Python** e **HTML**.
 
