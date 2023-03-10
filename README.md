@@ -20,7 +20,7 @@ Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel
 
 ### 📊 Estatísticas
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rdadev&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdadev/rdadev/output/github-contribution-grid-snake-dark.svg">
