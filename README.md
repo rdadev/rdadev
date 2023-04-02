@@ -21,7 +21,11 @@ Um "coffe lover" que transforma café em código.
 <img src="https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=trello&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Teams-191970?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 
 ### 📊 Estatísticas
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rdadev&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true)
+<div>
+  <a href="https://github.com/rdadev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdadev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rdadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdadev/rdadev/output/github-contribution-grid-snake-dark.svg">
