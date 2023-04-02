@@ -15,7 +15,10 @@ Um "coffe lover" que transforma café em código.
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs,git" alt="Linguagens de programação"/>
 
 ### 📠 Produtividade
-<img src="https://skillicons.dev/icons?i=ai,ps,md,wordpress,cloudflare,azure" alt="Produtividade"/>
+<img src="https://skillicons.dev/icons?i=ai,ps,wordpress,cloudflare,azure" alt="Produtividade"/>
+
+- Pacote Office como Word, Excel e Powerpoint no nível avançado.
+- Canva.
 
 ### 📊 Estatísticas
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rdadev&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true)
