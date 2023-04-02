@@ -15,7 +15,7 @@ Um "coffe lover" que transforma café em código.
 ##
 
 ### 🚀 Programação
-<img src="https://skillicons.dev/icons?i=html" alt="HTML"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css" alt="HTML"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" alt="HTML"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" alt="HTML"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgresql" alt="HTML"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=php" alt="HTML"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cs" alt="HTML"/>&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html" alt="HTML"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css" alt="HTML"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" alt="HTML"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" alt="HTML"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgresql" alt="HTML"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=php" alt="HTML"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cs" alt="HTML"/>&nbsp;&nbsp;
 
 ### 📠 Produtividade
 <img src="https://skillicons.dev/icons?i=ai,ps,wordpress,cloudflare,vercel,azure,vscode,visualstudio,git" alt="Produtividade"/>
