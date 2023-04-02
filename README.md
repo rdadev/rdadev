@@ -4,12 +4,11 @@ Um "coffe lover" que transforma café em código.
 
 - 🌱 Atualmente estou focado em aprender HTML, CSS e Javascript.
 - 🔭 Sempre procurando contribuir e aprimorar meus conhecimentos.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Opet.
+- 📚 Curso Análise e Desenvolvimento de Sistemas na Faculdade Opet.
 
 ### 🌐 Encontre-me
-<a href="https://www.linkedin.com/in/rdadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1A6DCF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br/>
-➡️ Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a>
+➡️ Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a> ou o linkedin em <a href="https://linkedin.com/in/rdadev" target="_blank" rel="noopener noreferrer">linkedin.com</a>
 <br/>
 ➡️ Envie-me um e-mail: <a href = "mailto:rafael@rda.dev.br">rafael@rda.dev.br</a>
 
