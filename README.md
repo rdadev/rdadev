@@ -2,17 +2,17 @@
 Sou um estudante na área de programação e tecnologia, procuro sempre colaborar e aprender mais. 
 Um "coffe lover" que transforma café em código.
 
-- 🌱 Atualmente estou focado em aprender **HTML**, **CSS** e **Javascript**.
+- 🌱 Atualmente estou focado em aprender HTML, CSS e Javascript.
 - 🔭 Sempre procurando contribuir e aprimorar meus conhecimentos.
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade UniOpet.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas na Faculdade UniOpet.
 
 ### 🌐 Encontre-me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rdadev/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=rdadev)](https://github.com/rdadev)
 
-Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a>
+➡️ Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a>
 <br/>
-Envie-me um e-mail: rafael@rda.dev.br
+➡️ Envie-me um e-mail: rafael@rda.dev.br
 
 ### 🚀 Programação
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Javascript-008000?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/php-4682B4?style=for-the-badge&logo=php&logoColor=white" />
