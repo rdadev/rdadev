@@ -3,10 +3,8 @@ Sou um estudante na área de programação e tecnologia, procuro sempre colabora
 Um "coffe lover" que transforma café em código.
 
 - 🌱 Atualmente estou focado em aprender **HTML**, **CSS** e **Javascript**.
-
 - 🔭 Sempre procurando contribuir e aprimorar meus conhecimentos.
-
-- 📚 Cursando Análise e Desenvolvimento de Sistemas na Faculdade UniOpet.
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade UniOpet.
 
 ### 🌐 Encontre-me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rdadev/)
