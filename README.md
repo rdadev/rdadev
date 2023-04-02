@@ -6,27 +6,19 @@ Um "coffe lover" que transforma café em código.
 - 🔭 Sempre procurando contribuir e aprimorar meus conhecimentos.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Opet.
 
-##
-
 ### 🌐 Encontre-me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rdadev/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=rdadev)](https://github.com/rdadev)
-
 ➡️ Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a>
 <br/>
 ➡️ Envie-me um e-mail: rafael@rda.dev.br
 
-##
-
 ### 🚀 Programação
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs,git" alt="Linguagens de programação"/>
 
-##
+### 📠 Produtividade
+<img src="https://skillicons.dev/icons?i=ai,ps,md,wordpress,cloudflare,azure" alt="Produtividade"/>
 
 ### 📊 Estatísticas
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rdadev&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true)
-
-##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdadev/rdadev/output/github-contribution-grid-snake-dark.svg">
