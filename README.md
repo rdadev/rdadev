@@ -17,7 +17,9 @@ Um "coffe lover" que transforma café em código.
 ### 📠 Produtividade
 <img src="https://skillicons.dev/icons?i=ai,ps,wordpress" alt="Produtividade"/>
 
-Adobe Illustrator e Photoshop (design e edições vetoriais), além do pacote Office como Word, Excel e Powerpoint no nível avançado.
+- Microsoft Word (Avançado)
+- Microsoft Excel (Avançado)
+- Microsoft PowerPoint (Avançado)
 
 ### 📊 Estatísticas
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rdadev&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true)
