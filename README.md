@@ -17,8 +17,8 @@ Um "coffe lover" que transforma café em código.
 ### 📠 Produtividade
 <img src="https://skillicons.dev/icons?i=ai,ps,wordpress,cloudflare,azure" alt="Produtividade"/>
 
+- Adobe Illustrator e Photoshop (design e edições vetoriais).
 - Pacote Office como Word, Excel e Powerpoint no nível avançado.
-- Canva.
 
 ### 📊 Estatísticas
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rdadev&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true)
