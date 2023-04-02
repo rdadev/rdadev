@@ -10,6 +10,8 @@ Um "coffe lover" que transforma café em código.
 ➡️ Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a>
 <br/>
 ➡️ Envie-me um e-mail: rafael@rda.dev.br
+<br/>
+➡️ Meu LinkedIn: <a href="https://linkedin.com/in/rdadev/" target="_blank" rel="noopener noreferrer">linkedin.com/in/rdadev</a>
 
 ### 🚀 Programação
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs,git" alt="Linguagens de programação"/>
