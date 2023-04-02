@@ -15,7 +15,7 @@ Um "coffe lover" que transforma café em código.
 ➡️ Envie-me um e-mail: rafael@rda.dev.br
 
 ### 🚀 Programação
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgress,sqlserver,php,git,c#" alt="Linguagens de programação"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,git,c#" alt="Linguagens de programação"/>
 
 ### 📠 Produtividade
 <img src="https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=trello&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Teams-191970?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe_Illustrator-F9BE26?style=for-the-badge&logo=adobe-illustrator&logoColor=black" />
