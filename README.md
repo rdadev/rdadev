@@ -6,6 +6,8 @@ Um "coffe lover" que transforma café em código.
 
 - 🔭 Sempre procurando contribuir e aprimorar meus conhecimentos.
 
+- 📚 Cursando Análise e Desenvolvimento de Sistemas na Faculdade UniOpet.
+
 ### 🌐 Encontre-me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rdadev/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=rdadev)](https://github.com/rdadev)
