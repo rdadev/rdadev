@@ -8,17 +8,19 @@ Um "coffe lover" que transforma café em código.
 
 ### 🌐 Encontre-me
 <br/>
+<div>
 ➡️ Você pode acessar meu site em <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a> ou linkedin em <a href="https://linkedin.com/in/rdadev/" target="_blank" rel="noopener noreferrer">linkedin.com/in/rdadev</a>
 <br/>
-➡️ Envie-me um e-mail em <a href = "mailto:rafael@rda.dev.br">rafael@rda.dev.br</a>
+➡️ Envie-me um e-mail em <a href="mailto:rafael@rda.dev.br">rafael@rda.dev.br</a>
+</div>
 
 ##
 
 ### 🚀 Programação
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs" alt="Programação"/>
+[<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs" alt="Programação"/>](https://github.com/rdadev)
 
 ### 📠 Produtividade
-<img src="https://skillicons.dev/icons?i=ai,ps,cloudflare,vercel,azure,vscode,visualstudio,git" alt="Produtividade"/>
+[<img src="https://skillicons.dev/icons?i=ai,ps,cloudflare,vercel,azure,vscode,visualstudio,git" alt="Produtividade"/>](https://github.com/rdadev)
 
 ##
 
