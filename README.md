@@ -16,7 +16,7 @@ Um "coffe lover" que transforma café em código.
 <br/>
 ➡️ Envie-me um e-mail: rafael@rda.dev.br
 
-$$
+##
 
 ### 🚀 Programação
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs,git" alt="Linguagens de programação"/>
