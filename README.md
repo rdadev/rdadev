@@ -6,12 +6,6 @@ Um "coffe lover" que transforma café em código.
 - 🔭 Sempre procurando contribuir e aprimorar meus conhecimentos.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Opet.
 
-### 🌐 Encontre-me
-<div> 
-<a href="https://www.linkedin.com/in/rdadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1A6DCF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "https://github.com/rdadev"><img src="https://img.shields.io/badge/Github-202020?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-
-</div>
 <br/>
 ➡️ Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a>
 <br/>
@@ -32,3 +26,10 @@ Um "coffe lover" que transforma café em código.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rdadev/rdadev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rdadev/rdadev/output/github-contribution-grid-snake.svg">
 </picture>
+
+### 🌐 Encontre-me
+<div> 
+<a href="https://www.linkedin.com/in/rdadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1A6DCF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "https://github.com/rdadev"><img src="https://img.shields.io/badge/Github-202020?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
+</div>
