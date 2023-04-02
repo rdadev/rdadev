@@ -4,7 +4,7 @@ Um "coffe lover" que transforma café em código.
 
 - 🌱 Atualmente estou focado em aprender HTML, CSS e Javascript.
 - 🔭 Sempre procurando contribuir e aprimorar meus conhecimentos.
-- 📚 Curso Análise e Desenvolvimento de Sistemas na Faculdade Opet.
+- 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade Opet.
 
 ### 🌐 Encontre-me
 <div>
