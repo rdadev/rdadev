@@ -8,9 +8,9 @@ Um "coffe lover" que transforma café em código.
 
 ### 🌐 Encontre-me
 <div> 
-<a href="https://www.linkedin.com/in/rdadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/rdadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1A6DCF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:rafael@rda.dev.br"><img src="https://img.shields.io/badge/Gmail-233333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://github.com/rdadev"><img src="https://img.shields.io/badge/Github-232323?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "https://github.com/rdadev"><img src="https://img.shields.io/badge/Github-161616?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 <br/>
 ➡️ Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a>
