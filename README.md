@@ -7,6 +7,8 @@ Um "coffe lover" que transforma café em código.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Opet.
 
 ### 🌐 Encontre-me
+<img src="https://skillicons.dev/icons?i=linkedin,github" alt="Linguagens de programação"/>
+
 ➡️ Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a>
 <br/>
 ➡️ Envie-me um e-mail: rafael@rda.dev.br
