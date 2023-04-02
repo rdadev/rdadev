@@ -27,9 +27,6 @@ Um "coffe lover" que transforma café em código.
 
 ##
 
-### 📊 Estatísticas
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rdadev&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdadev/rdadev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rdadev/rdadev/output/github-contribution-grid-snake.svg">
