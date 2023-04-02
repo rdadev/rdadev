@@ -11,6 +11,7 @@ Um "coffe lover" que transforma café em código.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=rdadev)](rdadev)
 
 Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a>
+Envie-me um email: rafael@rda.dev.br
 
 ### 🚀 Programação
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Javascript-008000?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/php-4682B4?style=for-the-badge&logo=php&logoColor=white" />
