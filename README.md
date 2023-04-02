@@ -15,7 +15,8 @@ Um "coffe lover" que transforma café em código.
 ##
 
 ### 🚀 Programação
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs" alt="Linguagens de programação"/>
+<img src="https://skillicons.dev/icons?i=html" alt="Linguagens de programação"/>
+<img src="https://skillicons.dev/icons?i=css" alt="Linguagens de programação"/>
 
 ### 📠 Produtividade
 <img src="https://skillicons.dev/icons?i=ai,ps,wordpress,cloudflare,vercel,azure,vscode,visualstudio,git" alt="Produtividade"/>
