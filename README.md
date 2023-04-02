@@ -15,10 +15,10 @@ Um "coffe lover" que transforma café em código.
 ➡️ Envie-me um e-mail: rafael@rda.dev.br
 
 ### 🚀 Programação
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,git" alt="Linguagens de programação"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs,git" alt="Linguagens de programação"/>
 
 ### 📠 Produtividade
-<img src="https://skillicons.dev/icons?i=trello,excel,powerpoint,word,teams" alt="Produtividade"/>
+<img src="https://skillicons.dev/icons?i=ai" alt="Produtividade"/>
 
 ### 📊 Estatísticas
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rdadev&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true)
