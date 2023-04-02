@@ -12,15 +12,17 @@ Um "coffe lover" que transforma café em código.
 ➡️ Envie-me um e-mail: rafael@rda.dev.br
 
 ### 🚀 Programação
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs,git" alt="Linguagens de programação"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs" alt="Linguagens de programação"/>
 
 
 ### 📠 Produtividade
-<img src="https://skillicons.dev/icons?i=ai,ps,wordpress,cloudflare,vercel,azure,vscode,visualstudio" alt="Produtividade"/>
+<img src="https://skillicons.dev/icons?i=ai,ps,wordpress,cloudflare,vercel,azure,vscode,visualstudio,git" alt="Produtividade"/>
 
 
 ### 📊 Estatísticas
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rdadev&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true)
+
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdadev/rdadev/output/github-contribution-grid-snake-dark.svg">
