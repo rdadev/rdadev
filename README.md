@@ -8,7 +8,8 @@ Um "coffe lover" que transforma café em código.
 
 ### 🌐 Encontre-me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rdadev/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=rdadev)](rdadev)
+<br/>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=rdadev)](https://github.com/rdadev)
 
 Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a>
 Envie-me um email: rafael@rda.dev.br
