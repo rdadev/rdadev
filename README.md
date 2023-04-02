@@ -10,12 +10,13 @@ Um "coffe lover" que transforma café em código.
 <div> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rdadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
-
+<br/>
 ➡️ Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a>
 <br/>
 ➡️ Envie-me um e-mail: rafael@rda.dev.br
+
+##
 
 ### 🚀 Programação
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs" alt="Linguagens de programação"/>
