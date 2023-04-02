@@ -7,7 +7,6 @@ Um "coffe lover" que transforma café em código.
 - 📚 Curso Análise e Desenvolvimento de Sistemas na Faculdade Opet.
 
 ### 🌐 Encontre-me
-<br/>
 <div>
 ➡️ Você pode acessar meu site em <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a> ou linkedin em <a href="https://linkedin.com/in/rdadev/" target="_blank" rel="noopener noreferrer">linkedin.com/in/rdadev</a>
 <br/>
