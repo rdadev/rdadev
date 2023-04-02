@@ -8,9 +8,9 @@ Um "coffe lover" que transforma café em código.
 
 ### 🌐 Encontre-me
 <br/>
-➡️ Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a> ou o linkedin em <a href="https://linkedin.com/in/rdadev" target="_blank" rel="noopener noreferrer">linkedin.com</a>
+➡️ Você pode acessar meu site em <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a> ou meu LinkedIn em <a href="https://linkedin.com/in/rdadev/" target="_blank" rel="noopener noreferrer">linkedin.com/in/rdadev/</a>
 <br/>
-➡️ Envie-me um e-mail: <a href = "mailto:rafael@rda.dev.br">rafael@rda.dev.br</a>
+➡️ Envie-me um e-mail em <a href = "mailto:rafael@rda.dev.br">rafael@rda.dev.br</a>
 
 ##
 
