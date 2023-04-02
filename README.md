@@ -10,17 +10,14 @@ Um "coffe lover" que transforma café em código.
 ➡️ Você pode acessar meu site em: <a href="https://rda.dev.br" target="_blank" rel="noopener noreferrer">www.rda.dev.br</a>
 <br/>
 ➡️ Envie-me um e-mail: rafael@rda.dev.br
-<br/>
-➡️ Meu LinkedIn: <a href="https://linkedin.com/in/rdadev/" target="_blank" rel="noopener noreferrer">linkedin.com/in/rdadev</a>
 
 ### 🚀 Programação
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs,git" alt="Linguagens de programação"/>
 
 ### 📠 Produtividade
-<img src="https://skillicons.dev/icons?i=ai,ps,wordpress,cloudflare,azure" alt="Produtividade"/>
+<img src="https://skillicons.dev/icons?i=ai,ps,wordpress" alt="Produtividade"/>
 
-- Adobe Illustrator e Photoshop (design e edições vetoriais).
-- Pacote Office como Word, Excel e Powerpoint no nível avançado.
+Adobe Illustrator e Photoshop (design e edições vetoriais), além do pacote Office como Word, Excel e Powerpoint no nível avançado.
 
 ### 📊 Estatísticas
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rdadev&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true)
