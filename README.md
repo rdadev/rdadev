@@ -19,7 +19,7 @@ Um "coffe lover" que transforma café em código.
 [<img src="https://skillicons.dev/icons?i=html,css,js,mysql,postgresql,php,cs" alt="Programação"/>](https://github.com/rdadev)
 
 ### 📠 Produtividade
-[<img src="https://skillicons.dev/icons?i=ai,ps,cloudflare,vercel,azure,vscode,visualstudio,git" alt="Produtividade"/>](https://github.com/rdadev)
+[<img src="https://skillicons.dev/icons?i=ai,ps,cloudflare,vercel,azure,vscode,visualstudio,git,linux" alt="Produtividade"/>](https://github.com/rdadev)
 
 ##
 
