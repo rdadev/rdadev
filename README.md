@@ -1,10 +1,9 @@
 ## Hi! I am Rafael 👋
-Sou um estudante na área de programação e tecnologia, procuro sempre colaborar e aprender mais. 
-Um "coffe lover" que transforma café em código.
+Sou um estudante na área de programação, procuro sempre colaborar e aprender mais. 
+Apaixonado por inovação e tecnologia empresarial.
 
 - 🌱 Desenvolvedor C# e .NET.
 - 💻 Atualmente focado em aprender SQL e aprimorar meus conhecimentos em C# e .NET.
-- 🔭 Sempre procurando contribuir e aprimorar meus conhecimentos.
 - 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade Opet.
 
 ### 🌐 Encontre-me
